@@ -14,7 +14,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-DEVICE=orion
+DEVICE=p4dv3
 MANUFACTURER=nvsbl
 
 mkdir -p ../../../vendor/$MANUFACTURER/$DEVICE

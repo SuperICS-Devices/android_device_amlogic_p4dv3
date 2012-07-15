@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo osr_orion-userdebug
-add_lunch_combo osr_orion-eng
+add_lunch_combo osr_p4dv3-userdebug
+add_lunch_combo osr_p4dv3-eng

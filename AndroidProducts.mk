@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/osr_orion.mk
+    $(LOCAL_DIR)/osr_p4dv3.mk
